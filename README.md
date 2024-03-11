@@ -1,1 +1,1 @@
-# Gazalpreetk-Global-Superstore-Sales-Insights
+Global-Superstore-Sales-Insights
