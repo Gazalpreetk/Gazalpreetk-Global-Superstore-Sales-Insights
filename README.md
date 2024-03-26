@@ -7,6 +7,10 @@ The dashboard presented provides a comprehensive view of a global superstore's o
 It consists of two main parts:
 
 ## Part 1: Global Superstore Dashboard
+
+<img width="931" alt="image" src="https://github.com/Gazalpreetk/Global-Superstore-Sales-Insights/assets/152589633/3bd8a621-a766-4d34-acbe-5d69b1b1d5d8">
+
+
 The first part of the dashboard offers a global perspective with the following features:
 
 KPI Metrics: Quick-glance cards showing total sales (12.64M), total quantity sold (178.31K), number of orders (51.29K), and profit (1.47M).
