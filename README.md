@@ -22,6 +22,10 @@ Quantity by Year: A line graph illustrating an upward trend in the quantity of i
 Product Categories: A section with visual representations for different product categories such as Furniture, Technology, and Office Supplies, along with their respective profit contributions.
 
 ## Part 2: Country-Specific Operations Analysis
+
+<img width="929" alt="image" src="https://github.com/Gazalpreetk/Global-Superstore-Sales-Insights/assets/152589633/889f82ff-b334-4266-9793-3e5aca2e0bb4">
+
+
 Upon interacting with the first part, the dashboard transitions to a country-specific analysis which includes:
 
 All City Quantity: A horizontal bar chart breaking down product quantities by city, offering a granular view within a selected country.
