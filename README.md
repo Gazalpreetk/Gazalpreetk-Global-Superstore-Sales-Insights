@@ -17,7 +17,7 @@ KPI Metrics: Quick-glance cards showing total sales, total quantity sold, number
 
 Quantity or Sales by Country: A bar graph displaying the quantity or sales of products sold in various countries, with the United States leading, followed by France and Australia, among others.
 
-Quantity Oe Slaes by Year: A line graph illustrating shows a trend in the quantity  or sales of items sold from 2011 to 2014, indicating growth over time.
+Quantity Or Slaes by Year: A line graph illustrating shows a trend in the quantity  or sales of items sold from 2011 to 2014, indicating growth over time.
 
 Product Categories: A section with visual representations for different product categories such as Furniture, Technology, and Office Supplies, along with their respective profit contributions.
 
