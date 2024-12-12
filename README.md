@@ -8,7 +8,7 @@ It consists of two main parts:
 
 ## Part 1: Global Superstore Dashboard
 
-<img width="931" alt="image" src="https://github.com/Gazalpreetk/Global-Superstore-Sales-Insights/assets/152589633/3bd8a621-a766-4d34-acbe-5d69b1b1d5d8">
+![image](https://github.com/user-attachments/assets/673d5ccd-2fb3-45ce-8424-fc36849f6fda)
 
 
 The first part of the dashboard offers a global perspective with the following features:
