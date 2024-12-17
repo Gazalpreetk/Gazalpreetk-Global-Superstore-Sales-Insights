@@ -7,8 +7,7 @@ The dashboard presented provides a comprehensive view of a global superstore's o
 It consists of two main parts:
 
 ## Part 1: Global Superstore Dashboard
-
-![image](https://github.com/user-attachments/assets/673d5ccd-2fb3-45ce-8424-fc36849f6fda)
+![image](https://github.com/user-attachments/assets/2692b387-2ae7-46ad-8725-33b2dde5381d)
 
 
 The first part of the dashboard offers a global perspective with the following features:
@@ -23,7 +22,8 @@ Product Categories: A section with visual representations for different product 
 
 ## Part 2: Country-Specific Operations Analysis
 
-<img width="929" alt="image" src="https://github.com/Gazalpreetk/Global-Superstore-Sales-Insights/assets/152589633/889f82ff-b334-4266-9793-3e5aca2e0bb4">
+![image](https://github.com/user-attachments/assets/e31dc388-8a08-4b44-b13c-9b69c3b13d7f)
+
 
 
 Upon interacting with the first part, the dashboard transitions to a country-specific analysis which includes:
