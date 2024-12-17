@@ -7,7 +7,8 @@ The dashboard presented provides a comprehensive view of a global superstore's o
 It consists of two main parts:
 
 ## Part 1: Global Superstore Dashboard
-![image](https://github.com/user-attachments/assets/2692b387-2ae7-46ad-8725-33b2dde5381d)
+![image](https://github.com/user-attachments/assets/b44dd499-98a8-4481-a87a-d32b6e31f4c8)
+
 
 
 The first part of the dashboard offers a global perspective with the following features:
